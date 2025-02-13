@@ -1,8 +1,8 @@
-José Gerardo Ruiz García
-Humberto Alexander de la Cruz Chanchavac
-Gerardo André Fernández Cruz
-Diego André Rosales Valenzuela
-Luis Fernando Mendonza
+José Gerardo Ruiz García  
+Humberto Alexander de la Cruz Chanchavac  
+Gerardo André Fernández Cruz  
+Diego André Rosales Valenzuela  
+Luis Fernando Mendonza  
 
 EasyStore
 
@@ -38,22 +38,22 @@ Incluye documentos clave sobre la gestión y diseño inicial del proyecto. Conti
 
 3.⁠ ⁠Avance 2
 
-Esta carpeta contiene el documento sobre casos de estudio, con información detallada sobre:
+    - Esta carpeta contiene el documento sobre casos de estudio, con información detallada sobre:
 
-Evidencias del seguimiento de Design Studio.
+    - Evidencias del seguimiento de Design Studio.
 
-Listado de ideas generadas con sus respectivos sketches.
+    - Listado de ideas generadas con sus respectivos sketches.
 
-Selección de ideas más votadas y repetidas para el producto final.
+    - Selección de ideas más votadas y repetidas para el producto final.
 
-Resumen de los hallazgos:
+    - Resumen de los hallazgos:
 
-EasyStore ofrecerá plantillas preestablecidas para la creación de tiendas en línea, permitiendo la carga de productos en formatos como Excel o CSV. Además, facilitará la gestión del sitio mediante la asignación de roles para personalizar logos, actualizar productos y modificar descripciones y precios.
+        EasyStore ofrecerá plantillas preestablecidas para la creación de tiendas en línea, permitiendo la carga de productos en formatos como Excel o CSV. Además, facilitará la gestión del sitio mediante la asignación de roles para personalizar logos, actualizar productos y modificar descripciones y precios.
 
 4.⁠ ⁠Corte 2
 
-(Pendiente de documentación)
+    - (Pendiente de documentación)
 
 5.⁠ ⁠SCRUM
 
-(Pendiente de documentación sobre la gestión ágil del proyecto)
+    - (Pendiente de documentación sobre la gestión ágil del proyecto)
